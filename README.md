@@ -1,99 +1,117 @@
 <h1 align="center">Hi 👋, I'm SIRIKI SAI DHANUSH</h1>
-<h3 align="center">Software Engineer | Frontend Developer | Python Developer </h3>
+
+<h3 align="center">🚀 Frontend-Focused Software Engineer | Building Dynamic Web Applications with JavaScript & Learning Backend Development</h3>
 
 <p align="center">
-💡 Software Engineer with hands-on experience in building responsive and dynamic web applications using modern JavaScript and REST APIs. Strong foundation in frontend development, API integration, and problem-solving, with growing expertise in backend technologies like Django. Passionate about developing scalable, user-centric applications and continuously improving engineering skills.
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Python+Developer;Learning+Backend+with+Django;Aspiring+Full+Stack+Engineer;Problem+Solver+%7C+Continuous+Learner" />
 </p>
 
 <p align="center">
-🚀 Web Development • ⚡ API Integration • 🧠 Problem Solving • 📈 Continuous Learning
+<img src="https://komarev.com/ghpvc/?username=dhanush7331&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+💻 Engineer by logic | ❤️ Developer by passion | 😄 Debugger by survival
+</p>
+
+<p align="center">
+🚀 Frontend Software Engineer specializing in JavaScript and responsive UI development, with hands-on experience building dynamic web applications and a growing understanding of backend development using Django.
+</p>
+
+<p align="center">
+💡 Passionate about solving real-world problems through clean, scalable code and evolving into a Full Stack Developer.
+</p>
+
+<p align="center">
+⚡ Web Development • 🧠 Problem Solving • 📈 Continuous Learning
+</p>
+
+---
+
+## 💙 Dev Humor Zone
+
+<p align="center">
+
+<table>
+<tr>
+<td align="center">💙<br><b>Are you an API?</b><br>Because I feel a strong connection every time I call you.</td>
+<td align="center">⚡<br><b>Missing Semicolon?</b><br>Because you complete me.</td>
+</tr>
+
+<tr>
+<td align="center">🧠<br><b>Neural Network?</b><br>You’ve activated all my layers.</td>
+<td align="center">🔗<br><b>Are you Git?</b><br>Because I want to commit to you.</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">✨<br><b>Clean Code</b><br>You’re rare, elegant, and hard to find.</td>
+</tr>
+</table>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **REST API-based web applications**
-- 🌱 Learning **Django, Backend Development & System Design**
-- 🧠 Strong in **JavaScript, DOM Manipulation, and Debugging**
-- ⚙️ Focused on building **scalable and user-friendly applications**
-- 📊 Practicing **Data Structures & Algorithms**
-- 🎯 Goal: Become a **Full Stack Software Engineer**
+<p align="center">
+
+🔭 Working on <b>REST API-based web applications</b><br>
+🌱 Learning <b>Django, Backend Development & System Design</b><br>
+🧠 Strong in <b>JavaScript, DOM Manipulation, Debugging</b><br>
+⚙️ Focused on <b>scalable and user-friendly applications</b><br>
+📊 Practicing <b>Data Structures & Algorithms</b><br>
+🎯 Goal: <b>Full Stack Software Engineer</b>
+
+</p>
 
 ---
 
 ## 🌐 Portfolio & Resume
 
-- 💼 Portfolio:  
-  👉 https://dhanush7331.github.io/Portfolio/#Home  
-
-- 📄 Resume:  
-  👉 https://drive.google.com/file/d/17QLYl_o_ItWdO7vS7pnkDYKv2OyHCLFm/view  
-
-- 📫 Email:  
-  👉 dhanushsirikisai@gmail.com  
+<p align="center">
+💼 <a href="https://dhanush7331.github.io/Portfolio/#Home">Portfolio</a> |
+📄 <a href="https://drive.google.com/file/d/17QLYl_o_ItWdO7vS7pnkDYKv2OyHCLFm/view">Resume</a> |
+📫 <a href="mailto:dhanushsirikisai@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+<a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
-### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design (Flexbox, CSS Grid)
-- DOM Manipulation & Event Handling
-
-### ⚙️ Backend
-- Python
-- Django (Basic)
-- REST API Integration
-- CRUD Operations
-
-### 🗄️ Databases
-- MySQL, PostgreSQL, SQLite
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Chrome DevTools
-- Postman
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,postgres,sqlite,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🧠 Quiz Application
-- Dynamic question rendering and scoring system
-- Real-time result display
-- Responsive UI using DOM manipulation  
+<p align="center">
 
----
+🧠 <b>Quiz Application</b><br>
+Dynamic quiz system with real-time scoring and DOM-based UI updates<br><br>
 
-### 🛒 Product Listing Web App
-- Integrated REST API using Fetch API
-- Used Async/Await for efficient data handling
-- Responsive UI with structured product display  
+🛒 <b>Product Listing App</b><br>
+REST API integration using Fetch API with async JavaScript<br><br>
 
----
+🍲 <b>Recipe Finder</b><br>
+Real-time API-based search with dynamic rendering<br><br>
 
-### 🍲 Recipe Finder
-- Real-time API-based search
-- Interactive UI with dynamic rendering  
+🏦 <b>Bank Management System</b><br>
+Python + SQLite CLI system with CRUD operations and transaction logic
 
----
-
-### 🏦 Bank Management System
-- CLI-based Python application with SQLite
-- CRUD operations and transaction logic  
+</p>
 
 ---
 
@@ -107,17 +125,35 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush7331&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush7331&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush7331&theme=tokyo-night" />
+</p>
+
 ---
 
 ## 🎯 Core Strengths
 
-- ✔️ Strong frontend fundamentals  
-- ✔️ API integration expertise  
-- ✔️ Clean and maintainable coding practices  
-- ✔️ Strong debugging and problem-solving skills  
+<p align="center">
+
+✔️ Frontend Development<br>
+✔️ API Integration (Basic)<br>
+✔️ Clean Code Practices<br>
+✔️ Debugging & Problem Solving  
+
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I love turning **ideas into real-world applications** 🚀
+<p align="center">
+I enjoy turning <b>ideas into real-world applications</b> 🚀
+</p>

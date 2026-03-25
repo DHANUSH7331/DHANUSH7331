@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SIRIKI SAI DHANUSH</h1>
-<h3 align="center">Software Engineer | Frontend Developer | API Integration Specialist</h3>
+<h3 align="center">Software Engineer | Frontend Developer | Python Developer </h3>
 
 <p align="center">
 💡 Software Engineer with hands-on experience in building responsive and dynamic web applications using modern JavaScript and REST APIs. Strong foundation in frontend development, API integration, and problem-solving, with growing expertise in backend technologies like Django. Passionate about developing scalable, user-centric applications and continuously improving engineering skills.

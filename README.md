@@ -83,14 +83,12 @@ Completed structured training in Python, Django, and full-stack web development.
 
 ## GitHub Activity
 
-<div align="center">
+Explore my repositories and recent work:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DHANUSH7331&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH7331&layout=compact&theme=transparent&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=DHANUSH7331&theme=transparent&hide_border=true" />
-
-</div>
+- [All repositories](https://github.com/DHANUSH7331?tab=repositories)
+- [Django ATM Banking System](https://github.com/DHANUSH7331/Django-ATM-Banking-System)
+- [Metro Ticket Booking System](https://github.com/DHANUSH7331/Metro-Project)
+- [Finance Dashboard](https://github.com/DHANUSH7331/Finance-Dashboard-UI)
 
 ## Let's Connect
 

@@ -1,26 +1,55 @@
 <div align="center">
 
-### SIRIKI SAI DHANUSH
+# SIRIKI SAI DHANUSH
 
-**Junior Developer | Python & Django | Web Development**
+### Python & Django Developer · Junior Developer
 
-<a href="https://dhanush7331.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dhanushsirikisai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+Building practical web applications, backend systems, and AI-powered tools.
+
+<p>
+  <a href="https://dhanush7331.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-2563EB?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dhanushsirikisai@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
-## About Me
+---
 
-I'm a **Junior Developer at Expand Software Solutions**, with a postgraduate background in Information Technology. I enjoy building practical web applications, working with Python-based backend systems, and exploring how AI can make software more useful.
+## 01 / PROFILE
 
-- 💼 Currently working as a **Junior Developer at Expand Software Solutions**
-- 🧑‍💻 Focused on **Python, Django, backend development, and web technologies**
-- 🤖 Exploring **Generative AI, Machine Learning, and AI-powered applications**
-- 🛠️ Interested in building useful projects and continuously improving my engineering skills
-- 📍 Visakhapatnam, Andhra Pradesh, India
+<table>
+<tr>
+<td width="62%" valign="top">
 
-## Technical Skills
+I'm a **Junior Developer at Expand Software Solutions** with a postgraduate background in Information Technology. I enjoy developing useful web applications, building Python-based backend systems, and exploring AI-powered software.
+
+- Currently working with web development and backend technologies
+- Focused on Python, Django, SQL, and practical application development
+- Exploring Generative AI and Machine Learning
+- Based in Visakhapatnam, Andhra Pradesh, India
+
+</td>
+<td width="38%" valign="top">
+
+**CURRENT ROLE**
+
+Junior Developer  
+Expand Software Solutions
+
+**PRIMARY FOCUS**
+
+Python · Django · Backend
+
+**INTERESTS**
+
+AI/ML · Web Applications · APIs
+
+</td>
+</tr>
+</table>
+
+## 02 / TECHNOLOGY STACK
 
 <div align="center">
 
@@ -28,81 +57,107 @@ I'm a **Junior Developer at Expand Software Solutions**, with a postgraduate bac
 
 </div>
 
-**Core areas:** Python · Django · SQL · HTML · CSS · JavaScript · REST APIs · Git & GitHub · Responsive Web Design
+| Area | Technologies |
+|:--|:--|
+| **Programming** | Python, JavaScript |
+| **Backend** | Django, REST APIs |
+| **Frontend** | HTML, CSS, Responsive Design |
+| **Database** | SQL, SQLite, MySQL |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
-## Featured Projects
+## 03 / SELECTED PROJECTS
 
-### 1. FRIDAY AI — Intelligent Voice Assistant
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Django-based AI assistant project that combines conversational AI with voice interaction and tool-based capabilities.
+### FRIDAY AI
+**Intelligent Voice Assistant**
+
+A Django-based assistant combining conversational AI, voice interaction, and tool-based capabilities.
 
 - AI-powered conversational responses
-- Voice input and text-to-speech output
+- Voice input and text-to-speech
 - Tool integration for supported tasks
-- Django backend and session-based conversation handling
+- Session-based conversation handling
 
-**Technologies:** Python, Django, LLM APIs, JavaScript, HTML, CSS, gTTS
+**Stack:** Python · Django · LLM APIs · JavaScript · gTTS
 
-### 2. Django ATM Banking System
+</td>
+<td width="50%" valign="top">
 
-A Django web application that simulates common ATM and banking workflows.
+### Django ATM Banking System
+**Banking Workflow Application**
 
-- Account creation and customer detail management
-- OTP-based ATM PIN generation through email
-- Balance enquiry, deposits, withdrawals, and fund transfers
-- Google reCAPTCHA validation and email integration
+A web application simulating common ATM and banking workflows.
 
-**Technologies:** Python, Django, SQLite, HTML, CSS, Gmail SMTP, Google reCAPTCHA
+- Account and customer management
+- OTP-based ATM PIN generation by email
+- Balance enquiry, deposits, withdrawals
+- Fund transfers and Google reCAPTCHA
 
-🔗 **Repository:** [Django-ATM-Banking-System](https://github.com/DHANUSH7331/Django-ATM-Banking-System)
+**Stack:** Python · Django · SQLite · SMTP
 
-### 3. Metro Ticket Booking System
+[View repository →](https://github.com/DHANUSH7331/Django-ATM-Banking-System)
 
-A Django-based metro ticket booking application with QR-code ticket generation and verification.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- User registration, login, and logout
-- Source and destination selection for ticket booking
-- QR-code generation for booked tickets
-- Ticket delivery through email
+### Metro Ticket Booking
+**QR-Based Ticketing Application**
+
+A Django application for booking metro tickets and validating generated QR codes.
+
+- User registration and authentication
+- Source and destination selection
+- QR ticket generation and email delivery
 - QR scanning and ticket verification
 
-**Technologies:** Python, Django, SQLite, HTML, CSS, qrcode, Pillow
+**Stack:** Python · Django · SQLite · qrcode · Pillow
 
-🔗 **Repository:** [Metro-Project](https://github.com/DHANUSH7331/Metro-Project)
+[View repository →](https://github.com/DHANUSH7331/Metro-Project)
 
-## Education
+</td>
+<td width="50%" valign="top">
 
-- **Postgraduate Degree — Information Technology**  
-  Andhra University College of Engineering
+### Finance Dashboard
+**Financial Data Interface**
 
-- **Bachelor of Science — Computer Science**  
-  Mrs A.V.N. College
+A dashboard project focused on presenting financial information through a web interface.
 
-## Professional Training
+- Explore the project repository
+- Review the interface and implementation
 
-**Python Full Stack Development — QSpiders, Hyderabad (JNTU)**  
-Completed structured training in Python, Django, and full-stack web development.
+**Stack:** See repository
 
-## GitHub Activity
+[View repository →](https://github.com/DHANUSH7331/Finance-Dashboard-UI)
 
-Explore my repositories and recent work:
+</td>
+</tr>
+</table>
 
-- [All repositories](https://github.com/DHANUSH7331?tab=repositories)
-- [Django ATM Banking System](https://github.com/DHANUSH7331/Django-ATM-Banking-System)
-- [Metro Ticket Booking System](https://github.com/DHANUSH7331/Metro-Project)
-- [Finance Dashboard](https://github.com/DHANUSH7331/Finance-Dashboard-UI)
+## 04 / EXPERIENCE & EDUCATION
 
-## Let's Connect
+| Category | Details |
+|:--|:--|
+| **Experience** | Junior Developer — Expand Software Solutions |
+| **Postgraduate** | Information Technology — Andhra University College of Engineering |
+| **Bachelor's** | B.Sc. Computer Science — Mrs A.V.N. College |
+| **Professional Training** | Python Full Stack Development — QSpiders, Hyderabad (JNTU) |
 
-<div align="center">
-
-<a href="https://dhanush7331.github.io/Portfolio/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/">LinkedIn</a> •
-<a href="https://github.com/DHANUSH7331">GitHub</a> •
-<a href="mailto:dhanushsirikisai@gmail.com">Email</a>
-
-</div>
+## 05 / EXPLORE
 
 <div align="center">
-  <sub>Building, learning, and improving one project at a time.</sub>
+
+<a href="https://github.com/DHANUSH7331?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://dhanush7331.github.io/Portfolio/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+### Let's build something useful.
+
+[GitHub](https://github.com/DHANUSH7331) · [LinkedIn](https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/) · [Email](mailto:dhanushsirikisai@gmail.com)
+
+<sub>Always learning. Always building. Improving one project at a time.</sub>
+
 </div>

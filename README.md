@@ -127,18 +127,44 @@ A Django application for booking metro tickets and validating generated QR codes
 
 A dashboard project focused on presenting financial information through a web interface.
 
-- Explore the project repository
-- Review the interface and implementation
-
-**Stack:** See repository
-
 [View repository →](https://github.com/DHANUSH7331/Finance-Dashboard-UI)
 
 </td>
 </tr>
 </table>
 
-## 04 / EXPERIENCE & EDUCATION
+## 04 / GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/DHANUSH7331">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DHANUSH7331&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/DHANUSH7331">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH7331&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=DHANUSH7331&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</a>
+
+<a href="https://github.com/DHANUSH7331">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSH7331&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+## 05 / CONTRIBUTION SNAKE
+
+<div align="center">
+
+The snake animation is generated automatically from my GitHub contribution history.
+
+![Contribution Snake](https://raw.githubusercontent.com/DHANUSH7331/DHANUSH7331/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## 06 / EXPERIENCE & EDUCATION
 
 | Category | Details |
 |:--|:--|
@@ -147,7 +173,7 @@ A dashboard project focused on presenting financial information through a web in
 | **Bachelor's** | B.Sc. Computer Science — Mrs A.V.N. College |
 | **Professional Training** | Python Full Stack Development — QSpiders, Hyderabad (JNTU) |
 
-## 05 / EXPLORE
+## 07 / EXPLORE
 
 <div align="center">
 

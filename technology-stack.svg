@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
+<title id="title">Technology stack</title><desc id="desc">Python, Django, HTML, CSS, JavaScript, MySQL, SQLite, Git, GitHub, VS Code and Postman.</desc>
+<rect width="900" height="190" rx="16" fill="#0d1117" stroke="#30363d"/><text x="30" y="38" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="19" font-weight="700">TECHNOLOGY STACK</text>
+<g font-family="Arial,sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+<g fill="#1f6feb"><rect x="30" y="58" width="130" height="42" rx="9"/><rect x="174" y="58" width="130" height="42" rx="9"/></g><g fill="#238636"><rect x="318" y="58" width="130" height="42" rx="9"/><rect x="462" y="58" width="130" height="42" rx="9"/></g><g fill="#8957e5"><rect x="606" y="58" width="130" height="42" rx="9"/><rect x="750" y="58" width="120" height="42" rx="9"/></g>
+<g fill="#fff"><text x="95" y="85">Python</text><text x="239" y="85">Django</text><text x="383" y="85">HTML / CSS</text><text x="527" y="85">JavaScript</text><text x="671" y="85">MySQL</text><text x="810" y="85">SQLite</text></g>
+<g fill="#30363d"><rect x="30" y="119" width="130" height="42" rx="9"/><rect x="174" y="119" width="130" height="42" rx="9"/><rect x="318" y="119" width="130" height="42" rx="9"/><rect x="462" y="119" width="130" height="42" rx="9"/><rect x="606" y="119" width="130" height="42" rx="9"/><rect x="750" y="119" width="120" height="42" rx="9"/></g>
+<g fill="#c9d1d9"><text x="95" y="146">Git</text><text x="239" y="146">GitHub</text><text x="383" y="146">VS Code</text><text x="527" y="146">Postman</text><text x="671" y="146">REST APIs</text><text x="810" y="146">gTTS</text></g></g></svg>

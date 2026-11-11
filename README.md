@@ -6,11 +6,7 @@
 
 Building practical web applications, backend systems, and AI-powered tools.
 
-<p>
-  <a href="https://dhanush7331.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-2563EB?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhanushsirikisai@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<p><a href="https://dhanush7331.github.io/Portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/">LinkedIn</a> · <a href="mailto:dhanushsirikisai@gmail.com">Email</a></p>
 
 </div>
 
@@ -53,7 +49,7 @@ AI/ML · Web Applications · APIs
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,sqlite,git,github,vscode,postman" />
+<img src="./technology-stack.svg" alt="Technology stack" />
 
 </div>
 
@@ -137,13 +133,7 @@ A dashboard project focused on presenting financial information through a web in
 
 <div align="center">
 
-<a href="https://github.com/DHANUSH7331">
-  <img src="./github-metrics.svg" alt="GitHub profile metrics, languages and activity" />
-</a>
-
-<a href="https://github.com/DHANUSH7331">
-  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
-</a>
+<a href="https://github.com/DHANUSH7331"><img src="./github-activity.svg" alt="GitHub contribution activity" /></a>
 
 </div>
 
@@ -153,7 +143,7 @@ A dashboard project focused on presenting financial information through a web in
 
 The snake animation is generated automatically from my GitHub contribution history.
 
-![Contribution Snake](https://raw.githubusercontent.com/DHANUSH7331/DHANUSH7331/output/github-contribution-grid-snake.svg)
+![Contribution Snake](./github-contribution-grid-snake.svg)
 
 </div>
 
@@ -170,8 +160,7 @@ The snake animation is generated automatically from my GitHub contribution histo
 
 <div align="center">
 
-<a href="https://github.com/DHANUSH7331?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://dhanush7331.github.io/Portfolio/"><img src="https://img.shields.io/badge/MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/DHANUSH7331?tab=repositories">All repositories</a> · <a href="https://dhanush7331.github.io/Portfolio/">My portfolio</a>
 
 ### Let's build something useful.
 

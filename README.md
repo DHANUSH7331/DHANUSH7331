@@ -133,7 +133,7 @@ A dashboard project focused on presenting financial information through a web in
 
 <div align="center">
 
-<a href="https://github.com/DHANUSH7331"><img src="./github-activity.svg" alt="GitHub contribution activity" /></a>
+View my live contribution calendar and repository activity: [GitHub profile](https://github.com/DHANUSH7331).
 
 </div>
 

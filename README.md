@@ -138,18 +138,11 @@ A dashboard project focused on presenting financial information through a web in
 <div align="center">
 
 <a href="https://github.com/DHANUSH7331">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DHANUSH7331&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/DHANUSH7331">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH7331&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=DHANUSH7331&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img src="./github-metrics.svg" alt="GitHub profile metrics, languages and activity" />
 </a>
 
 <a href="https://github.com/DHANUSH7331">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSH7331&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
 </a>
 
 </div>

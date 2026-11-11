@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:1D4ED8,100:06B6D4&height=220&section=header&text=SIRIKI%20SAI%20DHANUSH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Junior%20Developer%20%7C%20Python%20%26%20Django%20%7C%20Web%20Development&descAlignY=58&descSize=16&descColor=E0F2FE" width="100%" />
+### SIRIKI SAI DHANUSH
+
+**Junior Developer | Python & Django | Web Development**
 
 <a href="https://dhanush7331.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/siriki-sai-dhanush-404b5324a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
